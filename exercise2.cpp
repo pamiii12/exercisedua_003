@@ -47,7 +47,7 @@ public:
         return s * s;
     }
     float Keliling(int s) {
-        return 4 * s;
+        return 4 * s; 
     }
 };
 
